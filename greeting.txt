@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Greeting from Student A
-=======
-Greeting from Student B
->>>>>>> origin/main
+Greetings from Student A and B!
+
+Hello Guys!
